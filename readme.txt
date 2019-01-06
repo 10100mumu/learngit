@@ -15,3 +15,6 @@ Test  Test
 
 
 xiugai 
+
+Creating a new branch is quick AND simple.
+
